@@ -1,11 +1,7 @@
 {
-    "autoload": {
-        "psr-4": {
-            "App\\": "Application/"
-        }
+    "require-dev": {
     },
     "require": {
-        "easyswoole/easyswoole": "2.x-dev",
-        "easyswoole/swoole-ide-helper": "^1.0"
+        "eaglewu/swoole-ide-helper": "dev-master"
     }
 }
