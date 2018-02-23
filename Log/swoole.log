@@ -1,0 +1,21 @@
+[2018-02-23 11:06:36 $1943.0]	NOTICE	Server is reloading now.
+PHP Fatal error:  Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+
+Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+file[/Users/xiejianlai/project/swoole/Application/HttpController/Index.php] line[8] message:[Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index()]
+[2018-02-23 11:06:40 *2282.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8.
+[2018-02-23 11:06:40 $1943.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-02-23 11:06:52 $1943.0]	NOTICE	Server is reloading now.
+PHP Fatal error:  Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+
+Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+file[/Users/xiejianlai/project/swoole/Application/HttpController/Index.php] line[8] message:[Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index()]
+[2018-02-23 11:06:55 *2308.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8.
+[2018-02-23 11:06:55 $1943.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+PHP Fatal error:  Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+
+Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8
+file[/Users/xiejianlai/project/swoole/Application/HttpController/Index.php] line[8] message:[Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index()]
+[2018-02-23 11:07:02 *2328.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Index::index(Swoole\Http\Request $request): void must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::index() in /Users/xiejianlai/project/swoole/Application/HttpController/Index.php on line 8.
+[2018-02-23 11:07:02 $1943.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-02-23 11:07:56 #1941.0]	NOTICE	Server is shutdown now.
