@@ -1,4 +1,4 @@
-vendor\
-Log\
-Temp\
+vendor
+Log
+Temp
 composer.lock
